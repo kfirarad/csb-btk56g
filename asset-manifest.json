@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kfirarad.github.io/csb-btk56g/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kfirarad.github.io/csb-btk56g/static/js/main.ff065753.chunk.js",
+    "main.js.map": "https://kfirarad.github.io/csb-btk56g/static/js/main.ff065753.chunk.js.map",
+    "runtime-main.js": "https://kfirarad.github.io/csb-btk56g/static/js/runtime-main.a59c25c7.js",
+    "runtime-main.js.map": "https://kfirarad.github.io/csb-btk56g/static/js/runtime-main.a59c25c7.js.map",
+    "static/js/2.fb834de3.chunk.js": "https://kfirarad.github.io/csb-btk56g/static/js/2.fb834de3.chunk.js",
+    "static/js/2.fb834de3.chunk.js.map": "https://kfirarad.github.io/csb-btk56g/static/js/2.fb834de3.chunk.js.map",
+    "index.html": "https://kfirarad.github.io/csb-btk56g/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kfirarad.github.io/csb-btk56g/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fb834de3.chunk.js.LICENSE.txt": "https://kfirarad.github.io/csb-btk56g/static/js/2.fb834de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a59c25c7.js",
+    "static/js/2.fb834de3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ff065753.chunk.js"
+  ]
+}
